@@ -387,10 +387,6 @@ html {
     display: block;
     margin: 20px auto;
     width: 50%;
-    transform: rotate(20deg);
-    position: relative !important;
-    right: 30px !important;
-    top: -20px;
   }
 
   .container2 {
