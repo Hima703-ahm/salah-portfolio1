@@ -387,10 +387,10 @@ html {
     display: block;
     margin: 20px auto;
     width: 50%;
-    transform: rotate(20deg);
+    transform: rotate(25deg);
     position: relative;
-    right: 20px;
-    top: 20px;
+    left: 20px;
+    top: -20px;
   }
 
   .container2 {
