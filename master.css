@@ -185,11 +185,7 @@ h2 {
   width: 20%;
   transform: rotate(30deg);
   z-index: -1;
-  border-radius: 59px;
-  position: relative;
-  left: 68%;
-  top: 171px;
-}
+    border-radius: 59px;}
 
 .pic {
   display: flex;
