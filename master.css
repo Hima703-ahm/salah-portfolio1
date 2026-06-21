@@ -382,12 +382,7 @@ html {
     position: static; 
   }
 
-  .photo00 {
-    position: static;
-    display: block;
-    margin: 20px auto;
-    width: 50%;
-  }
+  
 
   .container2 {
     flex-direction: column;
