@@ -185,7 +185,11 @@ h2 {
   width: 20%;
   transform: rotate(30deg);
   z-index: -1;
-    border-radius: 59px;}
+  border-radius: 59px;
+  position: relative;
+  left: 68%;
+  top: 171px;
+}
 
 .pic {
   display: flex;
@@ -378,7 +382,14 @@ html {
     position: static; 
   }
 
-  
+  .photo00{
+    position: static;
+    display: block;
+    margin-left: 30px;
+    margin: 20px auto;
+    width: 50%;
+    transform: rotate(30deg);
+  }
 
   .container2 {
     flex-direction: column;
