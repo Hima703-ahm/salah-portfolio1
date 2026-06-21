@@ -389,8 +389,7 @@ html {
     width: 50%;
     transform: rotate(25deg);
     position: relative;
-    left: 20px;
-    top: -20px;
+    
   }
 
   .container2 {
