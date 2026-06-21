@@ -385,10 +385,9 @@ html {
   .photo00{
     position: static;
     display: block;
-    margin-left: 30px;
     margin: 20px auto;
     width: 50%;
-    transform: rotate(30deg);
+    
   }
 
   .container2 {
